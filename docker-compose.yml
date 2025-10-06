@@ -21,6 +21,34 @@ services:
     ports:
       - "9092:9092"
 
+  spark-master:
+    image: bitnamilegacy/spark:3.4.1
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - "8080:8080" # Spark master web UI
+      - "7077:7077"
+    volumes:
+      - ./:/workspace
+
+
+  spark-worker:
+    image: bitnamilegacy/spark:3.4.1
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER=spark://spark-master:7077
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    depends_on:
+      - spark-master
+    ports:
+      - "8081:8081" # Spark worker web UI
+
   pytest:
     build:
       context: .
