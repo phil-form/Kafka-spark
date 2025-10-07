@@ -63,3 +63,18 @@ services:
     environment:
       - SPARK_HOME=/opt/bitnami/spark
       - PYSPARK_PYTHON=python3
+
+  postgres:
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=1234
+      - POSTGRES_DB=events
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init_db:/docker-entrypoint-initdb.d
+
+volumes:
+  pgdata:
