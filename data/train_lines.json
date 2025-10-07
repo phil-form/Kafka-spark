@@ -1,0 +1,17 @@
+[
+  {"line_id": 1, "line_name": "IC-01", "origin": "Bruxelles-Midi", "destination": "Liège-Guillemins", "distance_km": 98, "avg_duration_min": 62},
+  {"line_id": 2, "line_name": "IC-02", "origin": "Bruxelles-Central", "destination": "Namur", "distance_km": 64, "avg_duration_min": 55},
+  {"line_id": 3, "line_name": "IC-03", "origin": "Anvers-Central", "destination": "Gand-Saint-Pierre", "distance_km": 56, "avg_duration_min": 49},
+  {"line_id": 4, "line_name": "IC-04", "origin": "Bruxelles-Nord", "destination": "Charleroi-Sud", "distance_km": 61, "avg_duration_min": 57},
+  {"line_id": 5, "line_name": "IC-05", "origin": "Liège-Guillemins", "destination": "Luxembourg", "distance_km": 125, "avg_duration_min": 115},
+  {"line_id": 6, "line_name": "IC-06", "origin": "Anvers-Central", "destination": "Bruges", "distance_km": 93, "avg_duration_min": 82},
+  {"line_id": 7, "line_name": "IC-07", "origin": "Bruxelles-Midi", "destination": "Mons", "distance_km": 64, "avg_duration_min": 52},
+  {"line_id": 8, "line_name": "IC-08", "origin": "Bruxelles-Midi", "destination": "Ostende", "distance_km": 120, "avg_duration_min": 95},
+  {"line_id": 9, "line_name": "IC-09", "origin": "Namur", "destination": "Liège-Guillemins", "distance_km": 57, "avg_duration_min": 48},
+  {"line_id": 10, "line_name": "S-10", "origin": "Bruxelles-Schuman", "destination": "Louvain-la-Neuve", "distance_km": 33, "avg_duration_min": 41},
+  {"line_id": 11, "line_name": "S-11", "origin": "Bruxelles-Central", "destination": "Aéroport de Bruxelles-National", "distance_km": 15, "avg_duration_min": 18},
+  {"line_id": 12, "line_name": "S-12", "origin": "Anvers-Central", "destination": "Malines", "distance_km": 22, "avg_duration_min": 24},
+  {"line_id": 13, "line_name": "S-13", "origin": "Liège-Guillemins", "destination": "Verviers-Central", "distance_km": 29, "avg_duration_min": 28},
+  {"line_id": 14, "line_name": "S-14", "origin": "Gand-Saint-Pierre", "destination": "Courtrai", "distance_km": 47, "avg_duration_min": 43},
+  {"line_id": 15, "line_name": "S-15", "origin": "Bruxelles-Nord", "destination": "Louvain", "distance_km": 25, "avg_duration_min": 29}
+]
