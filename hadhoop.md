@@ -3,11 +3,11 @@
 Hadoop est historiquement un **écosystème complet de traitement et stockage Big Data**.
 Il a plusieurs composants principaux :
 
-| Composant                                 | Rôle                                                                      | Equivalent dans ton infra                                                                                     |
-| ----------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **HDFS** (Hadoop Distributed File System) | Système de fichiers distribué pour stocker des volumes massifs de données | Tu pourrais l’utiliser à la place des fichiers `/tmp/bronze_data`, `/tmp/silver_data`, etc. ou d’un data lake |
-| **YARN**                                  | Gestionnaire de ressources et ordonnanceur de jobs (CPU, mémoire)         | Spark embarque son propre mode de cluster (Master/Worker) donc pas nécessaire                                 |
-| **MapReduce**                             | Moteur de calcul batch sur fichiers HDFS                                  | Spark remplace totalement MapReduce (plus rapide et en mémoire)                                               |
+| Composant                                 | Rôle                                                                      | Equivalent dans cette infra                                                                                    |
+| ----------------------------------------- | ------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------|
+| **HDFS** (Hadoop Distributed File System) | Système de fichiers distribué pour stocker des volumes massifs de données | Vous pourrez l’utiliser à la place des fichiers `/tmp/bronze_data`, `/tmp/silver_data`, etc. ou d’un data lake |
+| **YARN**                                  | Gestionnaire de ressources et ordonnanceur de jobs (CPU, mémoire)         | Spark embarque son propre mode de cluster (Master/Worker) donc pas nécessaire                                  |
+| **MapReduce**                             | Moteur de calcul batch sur fichiers HDFS                                  | Spark remplace totalement MapReduce (plus rapide et en mémoire)                                                |
 
 ---
 
