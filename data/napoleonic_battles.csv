@@ -1,0 +1,51 @@
+id,name,year,location,belligerents,outcome,winner
+1,Battle of Toulon,1793,"Toulon, France","France vs Britain/Spain",Victory,France
+2,Glorious First of June,1794,"Atlantic Ocean","Britain vs France",Victory,Britain
+3,Battle of Groix,1795,"Bay of Biscay","Britain vs France",Victory,Britain
+4,Battle of Cape St Vincent,1797,"off Portugal","Britain vs Spain",Victory,Britain
+5,Battle of Camperdown,1797,"off Netherlands","Britain vs Netherlands",Victory,Britain
+6,Battle of the Nile,1798,"Nile Delta, Egypt","Britain vs France",Victory,Britain
+7,Battle of Tory Island,1798,"off Ireland","Britain vs France",Victory,Britain
+8,Battle of Copenhagen,1801,"Denmark","Britain vs Denmark–Norway",Victory,Britain
+9,Battle of Algeciras Bay,1801,"Spain","Britain vs France/Spain",Defeat,"France/Spain"
+10,Second Battle of Algeciras,1801,"Spain","Britain vs France/Spain",Victory,Britain
+11,Battle of Cape Santa Maria,1804,"off Portugal","Britain vs Spain",Victory,Britain
+12,Battle of Cape Finisterre,1805,"Atlantic Ocean","Britain vs France",Indecisive,
+13,Battle of Trafalgar,1805,"off Cape Trafalgar, Spain","Britain vs France/Spain",Victory,Britain
+14,Battle of Cape Ortegal,1805,"Atlantic Ocean","Britain vs France",Victory,Britain
+15,Battle of San Domingo,1806,"Caribbean Sea","Britain vs France",Victory,Britain
+16,Battle of the Dardanelles,1807,"Sea of Marmara","Britain vs Ottoman Empire",Defeat,"Ottoman Empire"
+17,Battle of Montevideo,1807,"Uruguay","Britain vs Spain",Victory,Britain
+18,Battle of Copenhagen (1807),1807,"Denmark","Britain vs Denmark–Norway",Victory,Britain
+19,Battle of Les Sables-d'Olonne,1809,"Bay of Biscay","Britain vs France",Victory,Britain
+20,Battle of Basque Roads,1809,"off Rochefort, France","Britain vs France",Victory,Britain
+21,Battle of Samos,1807,"Aegean Sea","Britain vs Ottoman Empire",Victory,Britain
+22,Battle of Anholt,1809,"Kattegat Sea","Britain vs Denmark",Victory,Britain
+23,Battle of Maguelone,1809,"France","Britain vs France",Victory,Britain
+24,Battle of Grand Port,1810,"Mauritius","France vs Britain",Victory,France
+25,Battle of Tamatave,1811,"Indian Ocean","Britain vs France",Victory,Britain
+26,Battle of Lissa,1811,"Adriatic Sea","Britain vs France/Italy",Victory,Britain
+27,Battle of Pirano,1812,"Adriatic Sea","Britain vs France/Italy",Victory,Britain
+28,Battle of Lyngør,1812,"Norway","Britain vs Denmark/Norway",Victory,Britain
+29,Battle of Bergen,1813,"Norway","Britain vs Denmark/Norway",Victory,Britain
+30,Battle of Lake Borgne,1814,"Louisiana, USA","Britain vs United States",Defeat,"United States"
+31,Battle of Genoa,1795,"Ligurian Sea","Britain vs France",Victory,Britain
+32,Battle of Hyères Islands,1795,"Mediterranean Sea","Britain vs France",Indecisive,
+33,Battle of Cádiz,1797,"Cádiz, Spain","Britain vs Spain",Indecisive,
+34,Battle of Callao,1816,"Peru","Spain vs Chile",Victory,Spain
+35,Battle of Cape Henry,1781,"Virginia, USA","Britain vs France",Indecisive,
+36,Battle of Havana,1808,"Cuba","Britain vs Spain",Victory,Britain
+37,Battle of Les Saintes,1782,"Caribbean","Britain vs France",Victory,Britain
+38,Battle of Ushant (Second),1781,"Atlantic Ocean","Britain vs France",Indecisive,
+39,Battle of Navarino,1827,"Ionian Sea","Britain/France/Russia vs Ottoman/Egypt",Victory,Allies
+40,Battle of San Lorenzo,1813,"Argentina","Argentina vs Spain",Victory,Argentina
+41,Battle of Valparaiso,1814,"Chile","Britain vs United States",Defeat,"United States"
+42,Battle of the Basque Coast,1813,"Bay of Biscay","Britain vs France",Victory,Britain
+43,Battle of Veracruz,1798,"Gulf of Mexico","Spain vs France",Victory,Spain
+44,Battle of Havana (1797),1797,"Caribbean","Britain vs Spain",Indecisive,
+45,Battle of Martinique,1794,"Caribbean","Britain vs France",Victory,Britain
+46,Battle of Cape Gata,1812,"Mediterranean","Britain vs France",Victory,Britain
+47,Battle of Cape Noli,1795,"Mediterranean","Britain vs France",Indecisive,
+48,Battle of Santa Cruz de Tenerife,1797,"Canary Islands","Britain vs Spain",Defeat,Spain
+49,Battle of Rosas,1794,"Catalonia","France vs Spain",Victory,France
+50,Battle of Alvøen,1808,"Norway","Britain vs Denmark/Norway",Indecisive,

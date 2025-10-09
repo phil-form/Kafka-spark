@@ -1,0 +1,502 @@
+[
+  {
+    "user_id": 1,
+    "name": "Alice Dupont",
+    "age": 21,
+    "line_id": 2,
+    "trip_date": "2025-10-02 11:53",
+    "actual_duration_min": 27,
+    "delay_min": 3,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 2,
+    "name": "Benoît Martin",
+    "age": 22,
+    "line_id": 3,
+    "trip_date": "2025-10-03 16:46",
+    "actual_duration_min": 34,
+    "delay_min": 6,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 3,
+    "name": "Chloé Leroy",
+    "age": 23,
+    "line_id": 4,
+    "trip_date": "2025-10-04 21:39",
+    "actual_duration_min": 41,
+    "delay_min": 9,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 4,
+    "name": "David Lambert",
+    "age": 24,
+    "line_id": 5,
+    "trip_date": "2025-10-05 10:32",
+    "actual_duration_min": 48,
+    "delay_min": 1,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 5,
+    "name": "Élodie Simon",
+    "age": 25,
+    "line_id": 6,
+    "trip_date": "2025-10-06 15:25",
+    "actual_duration_min": 55,
+    "delay_min": 4,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 6,
+    "name": "François Dujardin",
+    "age": 26,
+    "line_id": 7,
+    "trip_date": "2025-10-07 20:18",
+    "actual_duration_min": 62,
+    "delay_min": 7,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 7,
+    "name": "Géraldine Petit",
+    "age": 27,
+    "line_id": 8,
+    "trip_date": "2025-10-08 09:11",
+    "actual_duration_min": 69,
+    "delay_min": 10,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 8,
+    "name": "Hugo Fontaine",
+    "age": 28,
+    "line_id": 9,
+    "trip_date": "2025-10-09 14:04",
+    "actual_duration_min": 76,
+    "delay_min": 2,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 9,
+    "name": "Isabelle Moreau",
+    "age": 29,
+    "line_id": 10,
+    "trip_date": "2025-10-01 19:57",
+    "actual_duration_min": 83,
+    "delay_min": 5,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 10,
+    "name": "Julien Lefebvre",
+    "age": 30,
+    "line_id": 11,
+    "trip_date": "2025-10-02 08:50",
+    "actual_duration_min": 90,
+    "delay_min": 8,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 11,
+    "name": "Karine Noël",
+    "age": 31,
+    "line_id": 12,
+    "trip_date": "2025-10-03 13:43",
+    "actual_duration_min": 97,
+    "delay_min": 0,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 12,
+    "name": "Luc Morel",
+    "age": 32,
+    "line_id": 13,
+    "trip_date": "2025-10-04 18:36",
+    "actual_duration_min": 104,
+    "delay_min": 3,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 13,
+    "name": "Mélanie Rousseau",
+    "age": 33,
+    "line_id": 14,
+    "trip_date": "2025-10-05 07:29",
+    "actual_duration_min": 111,
+    "delay_min": 6,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 14,
+    "name": "Nicolas Henry",
+    "age": 34,
+    "line_id": 15,
+    "trip_date": "2025-10-06 12:22",
+    "actual_duration_min": 118,
+    "delay_min": 9,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 15,
+    "name": "Olivier Mathieu",
+    "age": 35,
+    "line_id": 1,
+    "trip_date": "2025-10-07 17:15",
+    "actual_duration_min": 125,
+    "delay_min": 1,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 16,
+    "name": "Patricia Vermeulen",
+    "age": 36,
+    "line_id": 2,
+    "trip_date": "2025-10-08 06:08",
+    "actual_duration_min": 132,
+    "delay_min": 4,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 17,
+    "name": "Quentin Dupuis",
+    "age": 37,
+    "line_id": 3,
+    "trip_date": "2025-10-09 11:01",
+    "actual_duration_min": 139,
+    "delay_min": 7,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 18,
+    "name": "Romain Lambert",
+    "age": 38,
+    "line_id": 4,
+    "trip_date": "2025-10-01 16:54",
+    "actual_duration_min": 26,
+    "delay_min": 10,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 19,
+    "name": "Sophie Denis",
+    "age": 39,
+    "line_id": 5,
+    "trip_date": "2025-10-02 21:47",
+    "actual_duration_min": 33,
+    "delay_min": 2,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 20,
+    "name": "Thomas Wauters",
+    "age": 40,
+    "line_id": 6,
+    "trip_date": "2025-10-03 10:40",
+    "actual_duration_min": 40,
+    "delay_min": 5,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 21,
+    "name": "Ugo Leroy",
+    "age": 41,
+    "line_id": 7,
+    "trip_date": "2025-10-04 15:33",
+    "actual_duration_min": 47,
+    "delay_min": 8,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 22,
+    "name": "Valérie Renard",
+    "age": 42,
+    "line_id": 8,
+    "trip_date": "2025-10-05 20:26",
+    "actual_duration_min": 54,
+    "delay_min": 0,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 23,
+    "name": "William Lambert",
+    "age": 43,
+    "line_id": 9,
+    "trip_date": "2025-10-06 09:19",
+    "actual_duration_min": 61,
+    "delay_min": 3,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 24,
+    "name": "Xavier Declercq",
+    "age": 44,
+    "line_id": 10,
+    "trip_date": "2025-10-07 14:12",
+    "actual_duration_min": 68,
+    "delay_min": 6,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 25,
+    "name": "Yasmina Fontaine",
+    "age": 45,
+    "line_id": 11,
+    "trip_date": "2025-10-08 19:05",
+    "actual_duration_min": 75,
+    "delay_min": 9,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 26,
+    "name": "Zacharie Dupont",
+    "age": 46,
+    "line_id": 12,
+    "trip_date": "2025-10-09 08:58",
+    "actual_duration_min": 82,
+    "delay_min": 1,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 27,
+    "name": "Adrien Petit",
+    "age": 47,
+    "line_id": 13,
+    "trip_date": "2025-10-01 13:51",
+    "actual_duration_min": 89,
+    "delay_min": 4,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 28,
+    "name": "Béatrice Simon",
+    "age": 48,
+    "line_id": 14,
+    "trip_date": "2025-10-02 18:44",
+    "actual_duration_min": 96,
+    "delay_min": 7,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 29,
+    "name": "Charles Lefebvre",
+    "age": 49,
+    "line_id": 15,
+    "trip_date": "2025-10-03 07:37",
+    "actual_duration_min": 103,
+    "delay_min": 10,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 30,
+    "name": "Denise Wauters",
+    "age": 50,
+    "line_id": 1,
+    "trip_date": "2025-10-04 12:30",
+    "actual_duration_min": 110,
+    "delay_min": 2,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 31,
+    "name": "Éric Martin",
+    "age": 51,
+    "line_id": 2,
+    "trip_date": "2025-10-05 17:23",
+    "actual_duration_min": 117,
+    "delay_min": 5,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 32,
+    "name": "Fabienne Laurent",
+    "age": 52,
+    "line_id": 3,
+    "trip_date": "2025-10-06 06:16",
+    "actual_duration_min": 124,
+    "delay_min": 8,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 33,
+    "name": "Gaël Denis",
+    "age": 53,
+    "line_id": 4,
+    "trip_date": "2025-10-07 11:09",
+    "actual_duration_min": 131,
+    "delay_min": 0,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 34,
+    "name": "Hélène Dubois",
+    "age": 54,
+    "line_id": 5,
+    "trip_date": "2025-10-08 16:02",
+    "actual_duration_min": 138,
+    "delay_min": 3,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 35,
+    "name": "Ivan Moreau",
+    "age": 55,
+    "line_id": 6,
+    "trip_date": "2025-10-09 21:55",
+    "actual_duration_min": 25,
+    "delay_min": 6,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 36,
+    "name": "Jeanne Rousseau",
+    "age": 56,
+    "line_id": 7,
+    "trip_date": "2025-10-01 10:48",
+    "actual_duration_min": 32,
+    "delay_min": 9,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 37,
+    "name": "Kevin Bernard",
+    "age": 57,
+    "line_id": 8,
+    "trip_date": "2025-10-02 15:41",
+    "actual_duration_min": 39,
+    "delay_min": 1,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 38,
+    "name": "Laura Mercier",
+    "age": 58,
+    "line_id": 9,
+    "trip_date": "2025-10-03 20:34",
+    "actual_duration_min": 46,
+    "delay_min": 4,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 39,
+    "name": "Marc Noël",
+    "age": 59,
+    "line_id": 10,
+    "trip_date": "2025-10-04 09:27",
+    "actual_duration_min": 53,
+    "delay_min": 7,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 40,
+    "name": "Nadia Petit",
+    "age": 20,
+    "line_id": 11,
+    "trip_date": "2025-10-05 14:20",
+    "actual_duration_min": 60,
+    "delay_min": 10,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 41,
+    "name": "Oscar Leroy",
+    "age": 21,
+    "line_id": 12,
+    "trip_date": "2025-10-06 19:13",
+    "actual_duration_min": 67,
+    "delay_min": 2,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 42,
+    "name": "Paul Simon",
+    "age": 22,
+    "line_id": 13,
+    "trip_date": "2025-10-07 08:06",
+    "actual_duration_min": 74,
+    "delay_min": 5,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 43,
+    "name": "Rachel Dujardin",
+    "age": 23,
+    "line_id": 14,
+    "trip_date": "2025-10-08 13:59",
+    "actual_duration_min": 81,
+    "delay_min": 8,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 44,
+    "name": "Stéphane Fontaine",
+    "age": 24,
+    "line_id": 15,
+    "trip_date": "2025-10-09 18:52",
+    "actual_duration_min": 88,
+    "delay_min": 0,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 45,
+    "name": "Thérèse Dupuis",
+    "age": 25,
+    "line_id": 1,
+    "trip_date": "2025-10-01 07:45",
+    "actual_duration_min": 95,
+    "delay_min": 3,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 46,
+    "name": "Ursule Mathieu",
+    "age": 26,
+    "line_id": 2,
+    "trip_date": "2025-10-02 12:38",
+    "actual_duration_min": 102,
+    "delay_min": 6,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 47,
+    "name": "Victor Lambert",
+    "age": 27,
+    "line_id": 3,
+    "trip_date": "2025-10-03 17:31",
+    "actual_duration_min": 109,
+    "delay_min": 9,
+    "satisfaction": 3.4
+  },
+  {
+    "user_id": 48,
+    "name": "Wendy Renard",
+    "age": 28,
+    "line_id": 4,
+    "trip_date": "2025-10-04 06:24",
+    "actual_duration_min": 116,
+    "delay_min": 1,
+    "satisfaction": 2.0
+  },
+  {
+    "user_id": 49,
+    "name": "Xena Dubois",
+    "age": 29,
+    "line_id": 5,
+    "trip_date": "2025-10-05 11:17",
+    "actual_duration_min": 123,
+    "delay_min": 4,
+    "satisfaction": 2.7
+  },
+  {
+    "user_id": 50,
+    "name": "Yvan Morel",
+    "age": 30,
+    "line_id": 6,
+    "trip_date": "2025-10-06 16:10",
+    "actual_duration_min": 130,
+    "delay_min": 7,
+    "satisfaction": 3.4
+  }
+]
